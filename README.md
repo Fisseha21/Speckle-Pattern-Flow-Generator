@@ -3,11 +3,15 @@
 CondaSSLError: OpenSSL appears to be unavailable on this machine. OpenSSL is required to
 download and install packages.
 ```
-<pretrained_models>/
+<output_pat>/
 ├── film_net/
-│   ├── L1/
-│   ├── Style/
-│   ├── VGG/
+│   ├── Sequences├──Seq1
+│   │            │
+│   │ 
+│   ├── Flow/
+│   │ 
+│   │ 
+│   ├── Flow_vis/
 ├── vgg/
 │   ├── imagenet-vgg-verydeep-19.mat
 ```
