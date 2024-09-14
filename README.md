@@ -2,10 +2,10 @@
 
 ## Run Code
 ```
-python3 synthetic_data_generator.py \
-   --output_path=C:\Users\Fisseha\Downloads\results \
-   --number=5 \
-   --length=7 \
+python synthetic_data_generator.py
+   --output_path=C:\Users\Fisseha\Downloads\results
+   --seq_number=5
+   --seq_length=7
    --dimensions 512 512
 ```
 
