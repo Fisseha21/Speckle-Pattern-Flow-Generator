@@ -13,8 +13,6 @@ python synthetic_data_generator.py
    --dimensions 512 512
 ```
 
-python synthetic_data_generator.py --output_path=C:\Users\Fisseha\Downloads\results --number=5 --length=7 --dimensions 512 512
-
 ## Sample demo
 <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence.gif" width="200" height="200" alt="Demo GIF">
 
