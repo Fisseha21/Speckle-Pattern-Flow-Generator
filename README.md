@@ -1,6 +1,6 @@
 # Speckle-Pattern-Flow-Generator
 
-
+## Sample demo
 ![A sample 2 seconds moment.](https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/Samples/Speckle_sequence.gif)
 
 ## Output Format
