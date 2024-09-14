@@ -1,9 +1,13 @@
 # Speckle-Pattern-Flow-Generator
 
 ## Run Code
+There `--output_path`, which controls
+the number of times the frame interpolator is invoked. When the number of frames
+in a directory is `num_frames`, the number of output frames will be
+`(2^times_to_interpolate+1)*(num_frames-1)`.
 ```
 python synthetic_data_generator.py
-   --output_path=C:\Users\Fisseha\Downloads\results
+   --output_path=<output_path>
    --seq_number=5
    --seq_length=7
    --dimensions 512 512
