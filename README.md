@@ -1,7 +1,7 @@
 # Speckle-Pattern-Flow-Generator
 
 
-![A sample 2 seconds moment.](https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/sample/Speckle_sequence.gif)
+![A sample 2 seconds moment.](https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/Samples/Speckle_sequence.gif)
 
 ## Output Format
 The output files which includes synthetic speckle pattern sequences, .flo ground truth deformation field as well as flow vizualisations
