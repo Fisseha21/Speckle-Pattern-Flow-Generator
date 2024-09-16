@@ -7,14 +7,10 @@ This data generation process is inspired by [Deep DIC](https://github.com/RuYang
 
 # 4x4 Matrix
 
-\begin{equation}
-\begin{pmatrix}
-  1       & x^1_0   & x^2_0   & \cdots  & x^{degree}_0  \\
-  1       & x^1_1   & x^2_1   & \cdots  & x^{degree}_1  \\
-  \vdots  & \vdots  & \vdots  & \ddots  & \vdots \\
-  1       & x^1_n   & x^2_n   & \cdots  & x^{degree}_n  \\
-\end{pmatrix}
-\end{equation}
+```math
+\begin{bmatrix}X\\Y\end{bmatrix}
+```
+
 ## Run Code
 There are four arguments to be specified by the user. `--output_path` specfies the directory where generated image sequences, ground-truth flows and flow vizualizations will be saved.  `--seq_number` and `--seq_length` represent the number of random speckle pattern sequences to generate and the number of frames per each sequence, respectively.
 Lastly, the `--dimensions` argument specifies the height and width of the output speckle patterns.
