@@ -6,7 +6,10 @@ The goal of this repo is to generate multi-frame synthetic speckle pattern image
 This data generation process is inspired by [Deep DIC](https://github.com/RuYangNU/Deep-Dic-deep-learning-based-digital-image-correlation) We implemented the data generation process as described in this paper and further added the flexibility of generating multiple frames per sequence.
 
 ```math
-\begin{bmatrix}X\\Y\end{bmatrix}
+\begin{bmatrix}
+X\\Y
+X\\Y
+\end{bmatrix}
 ```
 ```math
 \begin{bmatrix}
