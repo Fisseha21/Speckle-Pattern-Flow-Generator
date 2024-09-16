@@ -17,8 +17,8 @@ cos\theta & sin\theta \\
 \end{bmatrix}
 \Biggl(
 \begin{bmatrix}
-k_x-1 & sin\theta \\
--sin\theta & k_y-1
+k_x-1 & \gamma_x \\
+\gamma_y & k_y-1
 \end{bmatrix}
 \Biggl)
 
