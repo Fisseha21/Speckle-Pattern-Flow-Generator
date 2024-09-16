@@ -19,7 +19,7 @@ python synthetic_data_generator.py
 </p>
 
 ## Output Format
-The output files which includes synthetic speckle pattern image sequences, .flo ground truth deformation field which contains the u and v components of the flow, as well as flow visualizations, heatmap of the `u` and `v` flows.
+The output files which includes synthetic speckle pattern image sequences, `.flo` ground truth deformation field which contains the `u` and `v` components of the flow, as well as flow visualizations, heatmap of the `u` and `v` flows.
 
 ```
 ├── <output_path>/
