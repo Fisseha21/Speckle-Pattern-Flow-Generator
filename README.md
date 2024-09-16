@@ -1,10 +1,8 @@
 # Speckle-Pattern-Flow-Generator
 
 ## Run Code
-There `--output_path`, which controls
-the number of times the frame interpolator is invoked. When the number of frames
-in a directory is `num_frames`, the number of output frames will be
-`(2^times_to_interpolate+1)*(num_frames-1)`.
+There four arguments to be specified by the user. `--output_path` specfies the directory where generated image sequences, ground-truth flows and flow vizualizations be saved.  `--seq_number`and  `--seq_length` represent the number of random speckle pattern sequences to generate and the number of frames per each sequences, respectively.
+Lastly, the `--dimensions` argument specifies the height and width of the output speckle patterns.
 ```
 python synthetic_data_generator.py
    --output_path=<output_path>
