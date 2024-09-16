@@ -5,6 +5,14 @@ The goal of this repo is to generate multi-frame synthetic speckle pattern image
 ## Formulation
 This data generation process is inspired by [Deep DIC](https://github.com/RuYangNU/Deep-Dic-deep-learning-based-digital-image-correlation) We implemented the data generation process as described in this paper and further added the flexibility of generating multiple frames per sequence.
 
+\[
+\begin{matrix}
+1 & 2 & 3 \\
+4 & 5 & 6 \\
+7 & 8 & 9
+\end{matrix}
+\]
+
 ## Run Code
 There are four arguments to be specified by the user. `--output_path` specfies the directory where generated image sequences, ground-truth flows and flow vizualizations will be saved.  `--seq_number` and `--seq_length` represent the number of random speckle pattern sequences to generate and the number of frames per each sequence, respectively.
 Lastly, the `--dimensions` argument specifies the height and width of the output speckle patterns.
