@@ -17,6 +17,17 @@ python synthetic_data_generator.py
    <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence.gif" width="200" height="200" alt="Demo GIF">
    <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence_flow.gif" width="500" height="250" alt="Demo GIF">
 </p>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <figure style="margin: 10px;">
+    <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence.gif" width="200" height="200" alt="GIF 1">
+    <figcaption style="text-align: center;">Caption for GIF 1</figcaption>
+  </figure>
+  <figure style="margin: 10px;">
+    <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence_flow.gif" width="500" height="250" alt="GIF 2">
+    <figcaption style="text-align: center;">Caption for GIF 2</figcaption>
+  </figure>
+</div>
 ## Output Format
 The output files which includes synthetic speckle pattern sequences, .flo ground truth deformation field as well as flow vizualisations
 
