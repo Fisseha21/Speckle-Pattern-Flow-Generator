@@ -15,12 +15,12 @@ v
 cos\theta & sin\theta \\
 -sin\theta & cos\theta
 \end{bmatrix}
-\Biggl
+\Biggl(
 \begin{bmatrix}
 cos\theta & sin\theta \\
 -sin\theta & cos\theta
 \end{bmatrix}
-\Biggl
+\Biggl)
 
 ```
 ## Run Code
