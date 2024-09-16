@@ -13,7 +13,7 @@ v
 = 
 \begin{bmatrix}
 cos\theta & sin\theta \\
-z & w
+-sin\theta & cos\theta
 \end{bmatrix}
 ```
 ## Run Code
