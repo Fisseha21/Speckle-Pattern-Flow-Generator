@@ -18,18 +18,18 @@ python synthetic_data_generator.py
    <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence_flow.gif" width="500" height="250" alt="Demo GIF">
 </p>
 
-
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <!-- First GIF and caption -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence.gif" style="height: 200px;  alt="Demo GIF">
-    <p>Caption for GIF 1</p>
+  <div style="text-align: center;">
+    <img src="assets/gif1.gif" height="300" alt="GIF 1">
+    <figcaption>Caption for GIF 1</figcaption>
   </div>
-
-  <!-- Second GIF and caption -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence_flow.gif" style="height: 500px; alt="Demo GIF">
-    <p>Caption for GIF 2</p>
+  <div style="text-align: center;">
+    <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence.gif" height="200" alt="GIF 2">
+    <figcaption>Caption for GIF 2</figcaption>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence_flow.gif" height="500" alt="GIF 3">
+    <figcaption>Caption for GIF 3</figcaption>
   </div>
 </div>
 
