@@ -7,17 +7,11 @@ This data generation process is inspired by [Deep DIC](https://github.com/RuYang
 
 ```math
 \begin{bmatrix}
-X\\Y
+X&y\\Y
 X\\Y
 \end{bmatrix}
 ```
-```math
-\begin{bmatrix}
-a_{11} & a_{12} & a_{13} & a_{14} \\
-a_{21} & a_{22} & a_{23} & a_{24} \\
-a_{31} & a_{32} & a_{33} & a_{34} \\
-a_{41} & a_{42} & a_{43} & a_{44}
-\end{bmatrix}
+
 
 ## Run Code
 There are four arguments to be specified by the user. `--output_path` specfies the directory where generated image sequences, ground-truth flows and flow vizualizations will be saved.  `--seq_number` and `--seq_length` represent the number of random speckle pattern sequences to generate and the number of frames per each sequence, respectively.
