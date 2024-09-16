@@ -20,13 +20,16 @@ python synthetic_data_generator.py
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <div style="text-align: center;">
-    <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence.gif" width="200" height="200" alt="Demo GIF">
-    <figcaption>Caption for GIF 1</figcaption>
+  <!-- First GIF and caption -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence.gif" style="height: 200px; width="200" alt="Demo GIF">
+    <p>Caption for GIF 1</p>
   </div>
-  <div style="text-align: center;">
-    <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence_flow.gif" width="500" height="250" alt="Demo GIF">
-    <figcaption>Caption for GIF 2</figcaption>
+
+  <!-- Second GIF and caption -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence_flow.gif" style="height: 500px; width="250" alt="Demo GIF">
+    <p>Caption for GIF 2</p>
   </div>
 </div>
 
