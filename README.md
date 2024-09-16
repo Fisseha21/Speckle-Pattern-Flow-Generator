@@ -1,4 +1,5 @@
 # Speckle-Pattern-Flow-Generator
+## Description 
 
 ## Run Code
 There are four arguments to be specified by the user. `--output_path` specfies the directory where generated image sequences, ground-truth flows and flow vizualizations will be saved.  `--seq_number` and `--seq_length` represent the number of random speckle pattern sequences to generate and the number of frames per each sequence, respectively.
