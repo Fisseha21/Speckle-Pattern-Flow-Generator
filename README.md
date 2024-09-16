@@ -7,35 +7,7 @@ This data generation process is inspired by [Deep DIC](https://github.com/RuYang
 
 # 4x4 Matrix
 
-Here is a 4x4 matrix:
-
-<table style="border-collapse: collapse; width: 50%; margin: auto;">
-  <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">1</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">2</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">3</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">4</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">5</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">6</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">7</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">8</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">9</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">10</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">11</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">12</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">13</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">14</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">15</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">16</td>
-  </tr>
-</table>
-
+\vec{v} = \begin{bmatrix} X \\\ Y \end{bmatrix}
 
 ## Run Code
 There are four arguments to be specified by the user. `--output_path` specfies the directory where generated image sequences, ground-truth flows and flow vizualizations will be saved.  `--seq_number` and `--seq_length` represent the number of random speckle pattern sequences to generate and the number of frames per each sequence, respectively.
