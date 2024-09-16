@@ -10,6 +10,11 @@ This data generation process is inspired by [Deep DIC](https://github.com/RuYang
 x & y \\
 z & w
 \end{bmatrix}
+= 
+\begin{bmatrix}
+x & y \\
+z & w
+\end{bmatrix}
 ```
 
 
