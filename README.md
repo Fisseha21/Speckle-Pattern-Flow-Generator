@@ -29,12 +29,12 @@ python synthetic_data_generator.py
   </figure>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <figure style="margin: 10px; text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <figure style="text-align: center; margin: 0;">
     <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence.gif" width="200" height="200" alt="GIF 1">
     <figcaption>Caption for GIF 1</figcaption>
   </figure>
-  <figure style="margin: 10px; text-align: center;">
+  <figure style="text-align: center; margin: 0;">
     <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence_flow.gif" width="500" height="250" alt="GIF 2">
     <figcaption>Caption for GIF 2</figcaption>
   </figure>
