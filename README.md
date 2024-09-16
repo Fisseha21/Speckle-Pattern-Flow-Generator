@@ -20,14 +20,14 @@ python synthetic_data_generator.py
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <figure style="text-align: center; margin: 0;">
+  <div style="text-align: center;">
     <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence.gif" width="200" height="200" alt="Demo GIF">
     <figcaption>Caption for GIF 1</figcaption>
-  </figure>
-  <figure style="text-align: center; margin: 0;">
+  </div>
+  <div style="text-align: center;">
     <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence_flow.gif" width="500" height="250" alt="Demo GIF">
     <figcaption>Caption for GIF 2</figcaption>
-  </figure>
+  </div>
 </div>
 
 ## Output Format
