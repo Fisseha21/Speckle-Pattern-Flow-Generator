@@ -7,8 +7,8 @@ This data generation process is inspired by [Deep DIC](https://github.com/RuYang
 
 ```math
 \begin{bmatrix}
-X&y\\Y
-X\\Y
+x & y \\
+z & w
 \end{bmatrix}
 ```
 
