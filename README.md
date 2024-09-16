@@ -5,7 +5,7 @@ The goal of this repo is to generate multi-frame synthetic speckle pattern image
 ## Formulation
 This data generation process is
 
-FILM: Frame Interpolation for Large Motion](https://github.com/RuYangNU/Deep-Dic-deep-learning-based-digital-image-correlation)
+[FILM: Frame Interpolation for Large Motion](https://github.com/RuYangNU/Deep-Dic-deep-learning-based-digital-image-correlation)
 
 ## Run Code
 There are four arguments to be specified by the user. `--output_path` specfies the directory where generated image sequences, ground-truth flows and flow vizualizations will be saved.  `--seq_number` and `--seq_length` represent the number of random speckle pattern sequences to generate and the number of frames per each sequence, respectively.
