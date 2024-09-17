@@ -20,12 +20,12 @@ cos\theta & sin\theta \\
 k_x-1 & \gamma_x \\
 \gamma_y & k_y-1
 \end{bmatrix}
-\Biggl)
 .
 \begin{bmatrix}
 x \\
 y
 \end{bmatrix}
+\Biggl)
 
 ```
 ## Run Code
