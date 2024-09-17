@@ -25,12 +25,10 @@ k_x-1 & \gamma_x \\
 \end{bmatrix}
 }_{\text{Shear and scale.}}
 .
-\underbrace{
 \begin{bmatrix}
 x \\
 y
 \end{bmatrix}
-}_{\text{\large Displacement components in x and y directions.}}
 +
 \underbrace{
 \begin{bmatrix}
@@ -38,22 +36,14 @@ d_x^g \\
 d_y^g
 \end{bmatrix}
 \Biggl)
-}_{\text{\large Displacement components in x and y directions.}}
+}_{\text{2D gaussian deformation}}
 +
 \underbrace{
 \begin{bmatrix}
 t_x \\
 t_y
 \end{bmatrix}
-}_{\text{\large Displacement components in x and y directions.}}
-
-\underbrace{
-\begin{bmatrix}
-d_x^g \\
-d_y^g
-\end{bmatrix}
-}_{\text{\large Displacement components in x and y directions.}}
-
+}_{\text{Translation}}
 ```
 ## Run Code
 There are four arguments to be specified by the user. `--output_path` specfies the directory where generated image sequences, ground-truth flows and flow vizualizations will be saved.  `--seq_number` and `--seq_length` represent the number of random speckle pattern sequences to generate and the number of frames per each sequence, respectively.
