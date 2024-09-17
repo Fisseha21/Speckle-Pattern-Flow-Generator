@@ -23,8 +23,7 @@ k_x-1 & \gamma_x \\ \gamma_y & k_y-1
 }_{\text{Shear and scale}}
 .
 \begin{bmatrix}
-x \\
-y
+x \\ y
 \end{bmatrix}
 +
 \underbrace{
