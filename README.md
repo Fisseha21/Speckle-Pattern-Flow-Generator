@@ -36,7 +36,12 @@ d_y^g
 t_x \\
 t_y
 \end{bmatrix}
-\underbrace{...}_{...}
+\underbrace{
+\begin{bmatrix}
+d_x^g \\
+d_y^g
+\end{bmatrix}
+}_{\text{Displacement components in x and y directions.}}
 
 ```
 ## Run Code
