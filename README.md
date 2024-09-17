@@ -16,7 +16,7 @@ v
 cos\theta & sin\theta \\
 -sin\theta & cos\theta
 \end{bmatrix}
-}_{\text{\Rotation}}
+}_{\text{Rotation}}
 \Biggl(
 \underbrace{
 \begin{bmatrix}
