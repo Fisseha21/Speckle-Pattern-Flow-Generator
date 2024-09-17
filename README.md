@@ -12,15 +12,13 @@ u \\ v
 =
 \underbrace{
 \begin{bmatrix}
-cos\theta & sin\theta \\
--sin\theta & cos\theta
+cos\theta & sin\theta \\ -sin\theta & cos\theta
 \end{bmatrix}
 }_{\text{Rotation}}
 \Biggl(
 \underbrace{
 \begin{bmatrix}
-k_x-1 & \gamma_x \\
-\gamma_y & k_y-1
+k_x-1 & \gamma_x \\ \gamma_y & k_y-1
 \end{bmatrix}
 }_{\text{Shear and scale}}
 .
@@ -31,16 +29,14 @@ y
 +
 \underbrace{
 \begin{bmatrix}
-d_x^g \\
-d_y^g
+d_x^g \\ d_y^g
 \end{bmatrix}
 \Biggl)
 }_{\text{2D gaussian deformation}}
 +
 \underbrace{
 \begin{bmatrix}
-t_x \\
-t_y
+t_x \\ t_y
 \end{bmatrix}
 }_{\text{Translation}}
 ```
