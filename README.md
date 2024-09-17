@@ -56,7 +56,7 @@ python synthetic_data_generator.py
 ```
 
 ## Sample demo
-[Sample sequence](https://drive.google.com/file/d/1_3Y8ZrwYb74aBwnhkyuCRy1CM4pd0Zv7/view?usp=sharing)
+Sample sequences can be found in [Sample sequence](https://drive.google.com/file/d/1_3Y8ZrwYb74aBwnhkyuCRy1CM4pd0Zv7/view?usp=sharing)
 
 <p align="center">
    <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence.gif" width="200" height="200" alt="Demo GIF">
