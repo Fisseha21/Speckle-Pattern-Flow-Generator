@@ -29,6 +29,7 @@ k_x-1 & \gamma_x \\
 x \\
 y
 \end{bmatrix}
+
 +
 \underbrace{
 \begin{bmatrix}
