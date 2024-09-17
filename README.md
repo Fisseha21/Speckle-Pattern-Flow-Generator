@@ -82,4 +82,3 @@ The output files which includes synthetic speckle pattern image sequences, `.flo
 │   │            │      ├──frame000n-1.png
 ```
 
-## Acknowledgement 
