@@ -41,7 +41,7 @@ t_y
 d_x^g \\
 d_y^g
 \end{bmatrix}
-}_{\text{Displacement components in x and y directions.}}
+}_{\text{\large Displacement components in x and y directions.}}
 
 ```
 ## Run Code
