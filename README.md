@@ -6,36 +6,49 @@ The goal of this repo is to generate multi-frame synthetic speckle pattern image
 This data generation process is inspired by [Deep DIC](https://github.com/RuYangNU/Deep-Dic-deep-learning-based-digital-image-correlation) paper.  We implemented the data generation process as described in this paper and further added the flexibility of generating multiple frames per sequence for multi-frame based learning methods.
 
 ```math
+\underbrace{
 \begin{bmatrix}
 u \\
 v
 \end{bmatrix}
-= 
+}_{\text{\large Displacement components in x and y directions.}}
+=
+\underbrace{
 \begin{bmatrix}
 cos\theta & sin\theta \\
 -sin\theta & cos\theta
 \end{bmatrix}
+}_{\text{\large Displacement components in x and y directions.}}
 \Biggl(
+\underbrace{
 \begin{bmatrix}
 k_x-1 & \gamma_x \\
 \gamma_y & k_y-1
 \end{bmatrix}
+}_{\text{\large Displacement components in x and y directions.}}
 .
+\underbrace{
 \begin{bmatrix}
 x \\
 y
 \end{bmatrix}
+}_{\text{\large Displacement components in x and y directions.}}
 +
+\underbrace{
 \begin{bmatrix}
 d_x^g \\
 d_y^g
 \end{bmatrix}
 \Biggl)
+}_{\text{\large Displacement components in x and y directions.}}
 +
+\underbrace{
 \begin{bmatrix}
 t_x \\
 t_y
 \end{bmatrix}
+}_{\text{\large Displacement components in x and y directions.}}
+
 \underbrace{
 \begin{bmatrix}
 d_x^g \\
