@@ -7,8 +7,7 @@ This data generation process is inspired by [Deep DIC](https://github.com/RuYang
 
 ```math
 \begin{bmatrix}
-u \\
-v
+u \\ v
 \end{bmatrix}
 =
 \underbrace{
