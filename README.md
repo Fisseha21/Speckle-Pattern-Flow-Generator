@@ -37,7 +37,8 @@ d_x^g \\
 d_y^g
 \end{bmatrix}
 \Biggl)
-}_{\text{2D gaussian //deformation}}
+}_{\text{2D gaussian
+deformation}}
 +
 \underbrace{
 \begin{bmatrix}
