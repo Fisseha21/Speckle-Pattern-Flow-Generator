@@ -29,7 +29,6 @@ k_x-1 & \gamma_x \\
 x \\
 y
 \end{bmatrix}
-
 +
 \underbrace{
 \begin{bmatrix}
@@ -39,6 +38,8 @@ d_y^g
 \Biggl)
 }_{\text{2D gaussian
 deformation}}
+
+
 +
 \underbrace{
 \begin{bmatrix}
