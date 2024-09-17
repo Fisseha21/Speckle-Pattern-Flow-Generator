@@ -25,6 +25,11 @@ k_x-1 & \gamma_x \\
 x \\
 y
 \end{bmatrix}
++
+\begin{bmatrix}
+d_x^g \\
+d_y^g
+\end{bmatrix}
 \Biggl)
 
 ```
