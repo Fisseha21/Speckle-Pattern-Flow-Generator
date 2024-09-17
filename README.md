@@ -59,7 +59,7 @@ python synthetic_data_generator.py
 ```
 
 ## Sample demo
-Sample sequences can be found in [Sample sequence](https://drive.google.com/file/d/1_3Y8ZrwYb74aBwnhkyuCRy1CM4pd0Zv7/view?usp=sharing). And below is example sequence with corresponding `u`, `v` flow components and `magnitude` of the sequence's underlining deformation.
+Sample sequences can be found in [Sample sequence](https://drive.google.com/file/d/1_3Y8ZrwYb74aBwnhkyuCRy1CM4pd0Zv7/view?usp=sharing). And below is an example sequence with corresponding `u`, `v` flow components and `magnitude` of the sequence's underlining deformation.
 
 <p align="center">
    <img src="https://github.com/Fisseha21/Speckle-Pattern-Flow-Generator/blob/main/Samples/Speckle_sequence.gif" width="200" height="200" alt="Demo GIF">
