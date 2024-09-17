@@ -31,6 +31,11 @@ d_x^g \\
 d_y^g
 \end{bmatrix}
 \Biggl)
++
+\begin{bmatrix}
+t_x \\
+t_y
+\end{bmatrix}
 
 ```
 ## Run Code
