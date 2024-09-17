@@ -23,7 +23,7 @@ cos\theta & sin\theta \\
 k_x-1 & \gamma_x \\
 \gamma_y & k_y-1
 \end{bmatrix}
-}_{\text{Shear and scale.}}
+}_{\text{Shear and scale}}
 .
 \begin{bmatrix}
 x \\
@@ -36,9 +36,7 @@ d_x^g \\
 d_y^g
 \end{bmatrix}
 \Biggl)
-}_{\text{2D gaussian \\ deformation}}
-
-
+}_{\text{2D gaussian deformation}}
 +
 \underbrace{
 \begin{bmatrix}
