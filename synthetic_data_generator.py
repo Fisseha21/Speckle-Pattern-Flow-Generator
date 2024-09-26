@@ -262,7 +262,6 @@ def main():
     parser.add_argument('--seq_number', type=int, help="Number of sequences to generate", required=True)
     parser.add_argument('--seq_length', type=int, help="Number of frames per sequence", required=True)
     parser.add_argument('--dimensions', type=int, nargs=2, help="Output image dimensions as height and width", required=True)
-    parser.add_argument('--verbose', action='store_true', help="Enable verbose mode")
     
     # Parse the arguments
     args = parser.parse_args()
